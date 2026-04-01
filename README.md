@@ -1,15 +1,23 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&multiline=true&width=600&height=200&lines=Hi,+I'm+Bukke+Sai+Charan+Naik+👋;Upskilling+to+become+a+Data+Analyst+📊;Focusing+on+Python,+SQL,+and+Power+BI+🐍;Avid+anime+fan+and+gamer+🎮;Based+in+Hyderabad,+India+📍" alt="Typing Animation" />
+  <img height="35" src="https://img.shields.io/badge/Hi%2C%20I'm%20Bukke%20Sai%20Charan%20Naik%20👋-333333?style=flat" alt="Greeting" /><br><br>
+  <img height="35" src="https://img.shields.io/badge/Upskilling%20to%20become%20a%20Data%20Analyst%20📊-333333?style=flat" alt="Goal" /><br><br>
+  <img height="35" src="https://img.shields.io/badge/Focusing%20on%20Python%2C%20SQL%2C%20and%20Power%20BI%20🐍-333333?style=flat" alt="Focus" /><br><br>
+  <img height="35" src="https://img.shields.io/badge/Avid%20anime%20fan%20and%20gamer%20🎮-333333?style=flat" alt="Hobbies" /><br><br>
+  <img height="35" src="https://img.shields.io/badge/Based%20in%20Hyderabad%2C%20India%20📍-333333?style=flat" alt="Location" />
 </div>
 
 <br><br>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saicharanuchiha&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <h3>🛠️ My Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,git,github,vscode,html,css&theme=dark" alt="Tech Stack" />
 </div>
 
+<br><br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saicharanuchiha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" />
+</div>
 
 # Hi, I'm Sai Charan 👋
 ### Aspiring Data Analyst 
