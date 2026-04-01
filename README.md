@@ -53,6 +53,16 @@ When I'm not running queries or debugging code, you can find me trying to improv
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharanuchiha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&v=2" alt="Top Languages" />
 </div>
 
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saicharanuchiha/saicharanuchiha/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saicharanuchiha/saicharanuchiha/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saicharanuchiha/saicharanuchiha/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <br><br>
 
 <div align="center">
