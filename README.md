@@ -36,7 +36,7 @@
 <br><br>
 
 ### 🔭 What I'm currently working on:
-* 🐍 Strengthening my core **Python** logic by building interactive, text-based applications (Treasure Finder, Rock-Paper-Scissors).
+* 🐍 Strengthening my core **Python** logic by building interactive, text-based applications.
 * 📈 Using **Python (Pandas & NumPy)** to perform exploratory data analysis and uncover hidden trends in raw data.
 * 🔍 Writing complex **SQL** queries to extract, clean, and analyze data from video game sales and e-commerce datasets.
 * 🗄️ Designing the relational database architecture for an **Instagram Clone**, focusing on optimal schema design.
