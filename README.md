@@ -12,19 +12,27 @@
 <br><br>
 
 <div align="center">
-  <h3>🛠️ My Tech Stack</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  </p>
+  <h3>💻 My favorite tools and technologies</h3>
+  <table style="background-color: #0D1117; border: 1px solid #30363D;">
+    <tr align="center">
+      <td width="100"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"></a><br><sub>Python</sub></td>
+      <td width="100"><a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="45" alt="Java"></a><br><sub>Java</sub></td>
+      <td width="100"><a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="45" alt="C"></a><br><sub>C</sub></td>
+      <td width="100"><a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" width="45" alt="R"></a><br><sub>R</sub></td>
+    </tr>
+    <tr align="center">
+      <td width="100"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"></a><br><sub>MySQL</sub></td>
+      <td width="100"><a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45" alt="PostgreSQL"></a><br><sub>PostgreSQL</sub></td>
+      <td width="100"><a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" width="45" alt="SQLite"></a><br><sub>SQLite</sub></td>
+      <td width="100"><a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB"></a><br><sub>MongoDB</sub></td>
+    </tr>
+    <tr align="center">
+      <td width="100"><a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="45" alt="TensorFlow"></a><br><sub>TensorFlow</sub></td>
+      <td width="100"><a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="45" alt="PyTorch"></a><br><sub>PyTorch</sub></td>
+      <td width="100"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"></a><br><sub>Git</sub></td>
+      <td width="100"><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"></a><br><sub>VS Code</sub></td>
+    </tr>
+  </table>
 </div>
 
 <br><br>
