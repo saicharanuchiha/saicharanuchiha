@@ -1,3 +1,16 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&multiline=true&width=600&height=200&lines=Hi,+I'm+Bukke+Sai+Charan+Naik+👋;Upskilling+to+become+a+Data+Analyst+📊;Focusing+on+Python,+SQL,+and+Power+BI+🐍;Avid+anime+fan+and+gamer+🎮;Based+in+Hyderabad,+India+📍" alt="Typing Animation" />
+</div>
+
+<br><br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=saicharanuchiha&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+
 # Hi, I'm Sai Charan 👋
 ### Aspiring Data Analyst 
 
