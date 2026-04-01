@@ -13,20 +13,24 @@
 
 <div align="center">
   <h3>💻 My favorite tools and technologies</h3>
-  <table style="background-color: #0D1117; border: 1px solid #30363D;">
+  <table style="border: 1px solid #30363D;">
     <tr align="center">
-      <td width="100"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"></a><br><sub>Python</sub></td>
-      <td width="100"><a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="45" alt="Java"></a><br><sub>Java</sub></td>
-      <td width="100"><a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="45" alt="C"></a><br><sub>C</sub></td>
-      <td width="100"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"></a><br><sub>MySQL</sub></td>
-      <td width="100"><a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45" alt="PostgreSQL"></a><br><sub>PostgreSQL</sub></td>
+      <td width="100" bgcolor="#0D1117"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"></a><br><sub>Python</sub></td>
+      <td width="100" bgcolor="#0D1117"><a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" alt="Excel"></a><br><sub>Excel</sub></td>
+      <td width="100" bgcolor="#0D1117"><a href="https://powerbi.microsoft.com/"><img src="https://img.icons8.com/color/48/power-bi.png" width="45" alt="Power BI"></a><br><sub>Power BI</sub></td>
+      <td width="100" bgcolor="#0D1117"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"></a><br><sub>MySQL</sub></td>
     </tr>
     <tr align="center">
-      <td width="100"><a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" width="45" alt="SQLite"></a><br><sub>SQLite</sub></td>
-      <td width="100"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"></a><br><sub>Git</sub></td>
-      <td width="100"><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"></a><br><sub>GitHub</sub></td>
-      <td width="100"><a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" width="45" alt="PyCharm"></a><br><sub>PyCharm</sub></td>
-      <td width="100"><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"></a><br><sub>VS Code</sub></td>
+      <td width="100" bgcolor="#0D1117"><a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45" alt="PostgreSQL"></a><br><sub>PostgreSQL</sub></td>
+      <td width="100" bgcolor="#0D1117"><a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" width="45" alt="SQLite"></a><br><sub>SQLite</sub></td>
+      <td width="100" bgcolor="#0D1117"><a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="45" alt="Java"></a><br><sub>Java</sub></td>
+      <td width="100" bgcolor="#0D1117"><a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="45" alt="C"></a><br><sub>C</sub></td>
+    </tr>
+    <tr align="center">
+      <td width="100" bgcolor="#0D1117"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"></a><br><sub>Git</sub></td>
+      <td width="100" bgcolor="#0D1117"><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"></a><br><sub>GitHub</sub></td>
+      <td width="100" bgcolor="#0D1117"><a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" width="45" alt="PyCharm"></a><br><sub>PyCharm</sub></td>
+      <td width="100" bgcolor="#0D1117"><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"></a><br><sub>VS Code</sub></td>
     </tr>
   </table>
 </div>
