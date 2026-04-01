@@ -34,18 +34,23 @@
 * 🗄️ Designing and building the relational database architecture for an Instagram Clone...
 *(Keep the rest of your current bullet points here!)*
 
+<br>
+
+### ⚡ Beyond the Code:
+When I'm not running queries or debugging code, you can find me trying to improve my typing speed, solving Rubik's cubes, or catching up on my favorite anime.
+
 <br><br>
 
 <div align="center">
   <h3>📊 GitHub Activity & Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=saicharanuchiha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saicharanuchiha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&v=2" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saicharanuchiha&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharanuchiha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharanuchiha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&v=2" alt="Top Languages" />
 </div>
 
 <br><br>
@@ -53,5 +58,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=saicharanuchiha&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <br><br>
-  <img src="https://media.giphy.com/media/b6iVj3XpbXgEUKg01M/giphy.gif" width="200" alt="Anime Coding GIF" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQydDVkNDVtaGRibzZmZWUzdnNpMTZhbXcwYWI1cncwOWIzdnNmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADSJHOoIvyjKM/giphy.gif" width="200" alt="Itachi Uchiha GIF" />
 </div>
