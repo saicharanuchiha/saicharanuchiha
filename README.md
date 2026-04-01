@@ -18,18 +18,14 @@
       <td width="100"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"></a><br><sub>Python</sub></td>
       <td width="100"><a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="45" alt="Java"></a><br><sub>Java</sub></td>
       <td width="100"><a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="45" alt="C"></a><br><sub>C</sub></td>
-      <td width="100"><a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" width="45" alt="R"></a><br><sub>R</sub></td>
-    </tr>
-    <tr align="center">
       <td width="100"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"></a><br><sub>MySQL</sub></td>
       <td width="100"><a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45" alt="PostgreSQL"></a><br><sub>PostgreSQL</sub></td>
-      <td width="100"><a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" width="45" alt="SQLite"></a><br><sub>SQLite</sub></td>
-      <td width="100"><a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB"></a><br><sub>MongoDB</sub></td>
     </tr>
     <tr align="center">
-      <td width="100"><a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="45" alt="TensorFlow"></a><br><sub>TensorFlow</sub></td>
-      <td width="100"><a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="45" alt="PyTorch"></a><br><sub>PyTorch</sub></td>
+      <td width="100"><a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" width="45" alt="SQLite"></a><br><sub>SQLite</sub></td>
       <td width="100"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"></a><br><sub>Git</sub></td>
+      <td width="100"><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"></a><br><sub>GitHub</sub></td>
+      <td width="100"><a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" width="45" alt="PyCharm"></a><br><sub>PyCharm</sub></td>
       <td width="100"><a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"></a><br><sub>VS Code</sub></td>
     </tr>
   </table>
